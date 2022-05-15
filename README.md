@@ -31,7 +31,7 @@
           fullName: 'Edelcio Batista Viaro',
           birthDate: '1971-01-05',
           pronouns: { portuguese: ['ele' | 'dele'],
-                      english: [he' | 'his']
+                      english: ['he' | 'his']
                     },
           interests: ['games', 'language learning', 'movies', 'cook', 'run'],
           motivation: [
