@@ -39,6 +39,12 @@
             '???',
           ],
         },
+  
+        education: {
+          formal: ['Bachelor´s degree in Business Administration', 'MBA in Investments'],
+          extra: ['Gastronomy']
+        }
+  
         technical: {          
           project methodology: ['Waterfall', 'Agile', 'Scrum'],
           technologies: {
