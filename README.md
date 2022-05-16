@@ -19,7 +19,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/edelciobatista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/edelcio.batista" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:edelcio.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:edelciobatista@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:edelcio.batista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
  ##
@@ -32,8 +33,12 @@
           birthDate: '1971-01-05',
           pronouns: { portuguese: ['ele' | 'dele'],
                       english: ['he' | 'his']
-                    },
-          site: 'www.edelcio.com',
+          },
+          contacts: { [ linkedin: ['linkedin.com/in/edelciobatista/'],
+                        email: ['edelciobatista@hotmail' | 'edelcio.batista@gmail.com'],
+                        instagram: ['https://instagram.com/edelcio.batista']
+                      ]
+          },
           interests: [ 'run', 'travels', 'games', 'language learning', 'movies', 'cook', 'wine and craft beer'],
           motivation: [
             'news technologies',
