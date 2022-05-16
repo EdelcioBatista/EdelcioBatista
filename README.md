@@ -43,7 +43,8 @@
   
         education: {
           formal: ['Bachelor´s degree in Business Administration', 'MBA in Investments'],
-          extra: ['Gastronomy']
+          extra: ['Gastronomy'],
+          certifications: ['SFPC', 'WBLSS', 'YBSS']
         }
   
         technical: {          
