@@ -34,10 +34,10 @@
                       english: ['he' | 'his']
                     },
           site: 'www.edelcio.com',
-          interests: [ 'run', 'games', 'language learning', 'movies', 'cook', 'wine and craft beer'],
+          interests: [ 'run', 'travels', 'games', 'language learning', 'movies', 'cook', 'wine and craft beer'],
           motivation: [
             'news technologies',
-            '???',
+            'news places',
           ],
         },
   
