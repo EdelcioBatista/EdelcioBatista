@@ -33,9 +33,10 @@
           pronouns: { portuguese: ['ele' | 'dele'],
                       english: ['he' | 'his']
                     },
-          interests: ['games', 'language learning', 'movies', 'cook', 'run'],
+          site: 'www.edelcio.com',
+          interests: [ 'run', 'games', 'language learning', 'movies', 'cook', 'wine and craft beer'],
           motivation: [
-            '???',
+            'news technologies',
             '???',
           ],
         },
@@ -54,7 +55,9 @@
                 CSS: ['sass*', 'styled-components*', 'Bootstrap'],
             },
             backEnd: {
-                Javascript: ['Node.js']
+                'Python',
+                Javascript: ['Node.js'],
+                Java: ['Spring Boot']
             },
             architecture: ['Single Page Applications*', 'Domain Driven Design*', 'Feature First*']
         },
