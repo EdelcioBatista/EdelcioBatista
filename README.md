@@ -39,10 +39,10 @@
                         instagram: ['https://instagram.com/edelcio.batista']
                       ]
           },
-          interests: [ 'run', 'travels', 'games', 'language learning', 'movies', 'cook', 'wine and craft beer'],
+          interests: [ 'run', 'travels', 'games', 'language learning', 'movies', 'books', 'cook', 'wine and craft beer'],
           motivation: [
-            'news technologies',
-            'news places',
+            'learn new technologies',
+            'know new places'
           ],
         },
   
@@ -56,7 +56,7 @@
           project methodology: ['Waterfall', 'Agile', 'Scrum'],
           technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS*', 'ReactJS', 'Redux*', 'Jest*'],
+                Javascript: ['ReactJS', 'Redux'],
                 HTML: ['HTML5', 'Semantic HTML*'],
                 CSS: ['sass*', 'styled-components*', 'Bootstrap'],
             },
@@ -65,7 +65,7 @@
                 Javascript: ['Node.js'],
                 Java: ['Spring Boot']
             },
-            architecture: ['Single Page Applications*', 'Domain Driven Design*', 'Feature First*']
+            architecture: ['Single Page Applications', 'Domain Driven Design*', 'Feature First*']
         },
     }
   
