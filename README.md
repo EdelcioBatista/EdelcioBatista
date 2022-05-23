@@ -56,14 +56,13 @@
           project methodology: ['Waterfall', 'Agile', 'Scrum'],
           technologies: {
             frontEnd: {
-                Javascript: ['ReactJS', 'Redux'],
                 HTML: ['HTML5', 'Semantic HTML*'],
                 CSS: ['sass*', 'styled-components*', 'Bootstrap'],
+                Javascript: ['ReactJS', 'Redux']
             },
             backEnd: {
                 'Python',
-                Javascript: ['Node.js'],
-                Java: ['Spring Boot']
+                Javascript: ['Node.js']
             },
             architecture: ['Single Page Applications', 'Domain Driven Design*', 'Feature First*']
         },
