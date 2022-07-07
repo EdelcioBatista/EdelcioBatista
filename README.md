@@ -62,7 +62,7 @@
             },
             backEnd: {
                 'Python',
-                Javascript: ['Node.js']
+                Javascript: ['Node.js', 'TypeScript']
             },
             architecture: ['Single Page Applications', 'Domain Driven Design*', 'Feature First*']
         },
