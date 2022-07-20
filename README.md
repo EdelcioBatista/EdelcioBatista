@@ -56,7 +56,7 @@
           project methodology: ['Waterfall', 'Agile', 'Scrum'],
           technologies: {
             frontEnd: {
-                HTML: ['HTML5', 'Semantic HTML*'],
+                HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass*', 'styled-components', 'Bootstrap'],
                 Javascript: ['ReactJS', 'Redux']
             },
