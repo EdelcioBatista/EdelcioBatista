@@ -57,7 +57,7 @@
           technologies: {
             frontEnd: {
                 HTML: ['HTML5', 'Semantic HTML*'],
-                CSS: ['sass*', 'styled-components*', 'Bootstrap'],
+                CSS: ['sass*', 'styled-components', 'Bootstrap'],
                 Javascript: ['ReactJS', 'Redux']
             },
             backEnd: {
