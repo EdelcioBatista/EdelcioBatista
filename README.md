@@ -58,7 +58,7 @@
             frontEnd: {
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass*', 'styled-components', 'Bootstrap'],
-                Javascript: ['ReactJS', 'Redux']
+                Javascript: ['ReactJS', 'NextJS', 'TypeScript']
             },
             backEnd: {
                 'Python',
