@@ -58,7 +58,7 @@
             frontEnd: {
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass*', 'styled-components', 'Bootstrap'],
-                Javascript: ['ReactJS', 'NextJS', 'TypeScript']
+                Javascript: ['ReactJS', 'NextJS', 'TypeScript', 'React Native']
             },
             backEnd: {
                 'Python',
